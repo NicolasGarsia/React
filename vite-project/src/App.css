@@ -1,0 +1,44 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+#header{
+  font-family: Helvetica;
+  text-align: center;
+  font-size: 20px;
+  color: rgb(255, 255, 255);
+}
+
+#img{
+  border-radius: 10px;
+}
+
+#sobre{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 15px;
+  color: rgb(255, 255, 255);
+  text-align: left;
+  margin-left: 135px;
+}
+
+#T{
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+  color: aliceblue;
+}
+
+#box{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  border: solid 5px black ;
+}
+
+.I{
+  width: 400px;
+  margin: 10px;
+  border-radius: 10px;
+}
